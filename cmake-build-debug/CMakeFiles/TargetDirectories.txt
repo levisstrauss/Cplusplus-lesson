@@ -1,0 +1,3 @@
+/Users/zakaria/Desktop/Desktop - MacBook Pro/CPlusPlus/cmake-build-debug/CMakeFiles/CPlusPlus.dir
+/Users/zakaria/Desktop/Desktop - MacBook Pro/CPlusPlus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zakaria/Desktop/Desktop - MacBook Pro/CPlusPlus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
